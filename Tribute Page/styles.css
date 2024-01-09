@@ -1,0 +1,22 @@
+img{
+  display: block;
+  max-width: 100%;
+}
+h1{
+  text-align: center;
+}
+h2{
+  text-align: center;
+}
+figcaption{
+  text-align: center;
+  margin-top: 10px;
+  font-family: sans-serif;
+}
+div{
+  text-align: center;
+}
+body{
+  background-color: rgb(80%, 70%, 100%);
+}
+
