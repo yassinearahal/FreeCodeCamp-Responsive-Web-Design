@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="styles.css">
+    <title>Moroccan National Team Survey</title>
+  </head>
+  <body>
+    <div class="container">
+      <h1 id="title">Moroccan National Team Survey</h1>
+      <p id="description">Can the Moroccan national football team win FIFA QATAR 2022?</p>
+      <form id="survey-form">
+        <label id="name-label">
+          Name<input required id="name" type="text" placeholder="Enter your name">
+        </label>
+        <label id="email-label">
+          Email<input required id="email" type="email" placeholder="Enter your email">
+        </label>
+        <label id="number-label">
+          Age <input id="number" type="number" min="12" max="99" placeholder="Enter your age">
+        </label>
+        <label>
+          Choose Prediction
+          <select id="dropdown">
+            <option value="Win">Win</option>
+            <option value="Lost">Lost</option>
+          </select>
+        </label>
+        <div id="radio-group">
+          <label>
+            <input type="radio" name="win-against-france" value="Winning"> Win against France
+          </label>
+          <label>
+            <input type="radio" name="win-against-france" value="Losing"> Lost against France
+          </label>
+        </div>
+        <div id="checkbox-group">
+          <label>
+            <input type="checkbox" name="3-0" value="3:0"> 3:0
+          </label>
+          <label>
+            <input type="checkbox" name="2-0" value="2:0"> 2:0
+          </label>
+        </div>
+        <label>
+          Comment<textarea placeholder="Add a comment"></textarea>
+        </label>
+        <button id="submit" type="submit">Submit</button>
+      </form>
+    </div>
+  </body>
+</html>
