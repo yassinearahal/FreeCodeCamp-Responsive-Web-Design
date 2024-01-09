@@ -21,5 +21,10 @@ In this project, I'm on a mission to master the art of creating web interfaces t
 
 ## Contributions
 
-Contributions, issues, and feedback are welcome! Feel free to open an issue or submit a pull request.
+Contributions, issues, and feedback are welcome! Feel free to [open an issue]([link-to-issues](https://github.com/TheCyberKnight777/-FreeCodeCamp-Responsive-Web-Design-/issues)) or [submit a pull request]([link-to-pulls](https://github.com/TheCyberKnight777/-FreeCodeCamp-Responsive-Web-Design-/pulls)).
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md]([LICENSE.md](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt)https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt) file for details.
+
 ---
