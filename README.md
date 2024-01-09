@@ -8,6 +8,14 @@ Welcome to my personal repository documenting my exploration of responsive web d
 
 In this project, I'm on a mission to master the art of creating web interfaces that seamlessly adapt to various devices and screen sizes. From foundational HTML and CSS concepts to advanced responsive design techniques, every commit represents a step forward in my learning journey.
 
+To see the projects demos go here:
+
+https://www.freecodecamp.org/learn/2022/responsive-web-design/
+
+## Certification
+
+https://www.freecodecamp.org/certification/yassinearahal/responsive-web-design
+
 ## Features
 
 - **Hands-On Projects:** Explore a collection of practical projects demonstrating responsive design principles.
@@ -25,6 +33,6 @@ Contributions, issues, and feedback are welcome! Feel free to [open an issue]([l
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md]([LICENSE.md](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt)https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt) file for details.
+This project is licensed under the MIT License
 
 ---
