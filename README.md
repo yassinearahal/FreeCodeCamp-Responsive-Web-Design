@@ -1,6 +1,3 @@
-# -FreeCodeCamp-Responsive-Web-Design-
-Certainly! Your GitHub repository description is a great place to provide context and information about your project. Here's a general template you can use and customize for your responsive web design project:
-
 ---
 
 # Responsive Web Design Learning Journey
